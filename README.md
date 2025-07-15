@@ -1,4 +1,3 @@
-# AI-Fundamentals
 # 🧠 AI Fundamentals Trainer Notes
 
 
